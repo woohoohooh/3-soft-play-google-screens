@@ -1,0 +1,10 @@
+titles = {
+"1.png": "Smart Money", # screen: Onboarding
+"2.png": "Track Spending", # screen: Dashboard
+"3.png": "All Transactions", # screen: Transactions
+"4.png": "Set Budgets", # screen: Budgets
+"5.png": "Spending Stats", # screen: Insights
+"6.png": "Smart Insights", # screen: Insights
+"7.png": "App Settings", # screen: Insights
+"8.png": "Dark Mode" # screen: Profile
+}
