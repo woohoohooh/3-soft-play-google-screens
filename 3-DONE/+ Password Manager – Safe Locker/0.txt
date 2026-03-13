@@ -1,0 +1,7 @@
+titles = {
+"1.png": "Secure Locker",
+"2.png": "Store Passwords",
+"3.png": "Pass Generator",
+"4.png": "Security Scan",
+"5.png": "Easy Unlock"
+}

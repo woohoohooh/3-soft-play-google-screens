@@ -1,0 +1,8 @@
+{
+"1.png": "Mindful Living", # screen: WelcomeView
+"2.png": "Simple Writing", # screen: WriteView
+"3.png": "Track Journey", # screen: TimelineView
+"4.png": "Mood Trends", # screen: InsightsView
+"5.png": "Dark Mode", # screen: ProfileView
+"6.png": "Stay Private" # screen: ProfileView
+}

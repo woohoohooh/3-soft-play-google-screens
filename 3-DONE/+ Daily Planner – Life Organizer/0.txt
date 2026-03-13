@@ -1,0 +1,8 @@
+titles = {
+"1.png": "Organize Life",
+"2.png": "Daily Planner",
+"3.png": "Build Habits",
+"4.png": "Life Balance",
+"5.png": "Plan Ahead",
+"6.png": "Dark Mode"
+}

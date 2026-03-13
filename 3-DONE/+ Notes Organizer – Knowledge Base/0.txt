@@ -1,0 +1,9 @@
+{
+  "1.png": "Knowledge Hub", // screen: WelcomePage
+  "2.png": "Quick Notes", // screen: NotesPage
+  "3.png": "Create Note", // screen: NotesPage
+  "4.png": "Visual Map", // screen: GraphPage
+  "5.png": "Organize Topics", // screen: TopicsPage
+  "6.png": "Track Progress", // screen: SettingsPage
+  "7.png": "Dark Mode" // screen: SettingsPage
+}

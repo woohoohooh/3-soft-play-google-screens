@@ -1,0 +1,10 @@
+{
+  "1.png": "Stay Focused",
+  "2.png": "Focus Timer",
+  "3.png": "Track Activity",
+  "4.png": "Daily Stats",
+  "5.png": "Smart Insights",
+  "6.png": "Achievements",
+  "7.png": "Minimalism",
+  "8.png": "Light Theme"
+}

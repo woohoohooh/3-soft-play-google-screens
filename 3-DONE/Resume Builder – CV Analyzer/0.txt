@@ -1,0 +1,8 @@
+{
+"1.png": "Build Career", # screen: Onboarding
+"2.png": "Pro Resume", # screen: ResumePreview
+"3.png": "CV Score", # screen: Analysis
+"4.png": "Job Match", # screen: JobFit
+"5.png": "Easy Editor", # screen: ResumeBuilder
+"6.png": "Dark Mode" # screen: Profile
+}

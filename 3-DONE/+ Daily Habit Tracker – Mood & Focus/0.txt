@@ -1,0 +1,9 @@
+titles = {
+"1.png": "Daily Balance",
+"2.png": "Track Habits",
+"3.png": "Deep Focus",
+"4.png": "Log Mood",
+"5.png": "Smart Stats",
+"6.png": "Dark Mode",
+"7.png": "Minimalism"
+}

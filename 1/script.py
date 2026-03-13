@@ -7,14 +7,12 @@ OUTPUT_FOLDER = "output"
 BLUR_LEVEL = 40   # 1–10 сила blur
 
 titles = {
-"1.png": "Smart Money", # screen: Onboarding
-"2.png": "Track Spending", # screen: Dashboard
-"3.png": "All Transactions", # screen: Transactions
-"4.png": "Set Budgets", # screen: Budgets
-"5.png": "Spending Stats", # screen: Insights
-"6.png": "Smart Insights", # screen: Insights
-"7.png": "App Settings", # screen: Insights
-"8.png": "Dark Mode" # screen: Profile
+"1.png": "Plan Content",
+"2.png": "Post Calendar",
+"3.png": "Idea Vault",
+"4.png": "Plan Strategy",
+"5.png": "Customize Settings",
+"6.png": "Dark Mode"
 }
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)

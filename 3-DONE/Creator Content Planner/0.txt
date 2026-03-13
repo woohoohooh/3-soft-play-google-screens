@@ -1,0 +1,8 @@
+{
+"1.png": "Plan Content", // screen: Welcome View
+"2.png": "Post Calendar", // screen: Calendar View
+"3.png": "Idea Vault", // screen: Idea Vault
+"4.png": "Plan Strategy", // screen: Campaign Planner
+"5.png": "Customize Settings", // screen: Campaign Planner
+"6.png": "Dark Mode" // screen: Settings View
+}
