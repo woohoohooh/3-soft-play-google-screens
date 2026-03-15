@@ -7,12 +7,12 @@ OUTPUT_FOLDER = "output"
 BLUR_LEVEL = 40   # 1–10 сила blur
 
 titles = {
-"1.png": "Plan Content",
-"2.png": "Post Calendar",
-"3.png": "Idea Vault",
-"4.png": "Plan Strategy",
-"5.png": "Customize Settings",
-"6.png": "Dark Mode"
+"1.png": "Build Career", # screen: Onboarding
+"2.png": "Pro Resume", # screen: ResumePreview
+"3.png": "CV Score", # screen: Analysis
+"4.png": "Job Match", # screen: JobFit
+"5.png": "Easy Editor", # screen: ResumeBuilder
+"6.png": "Dark Mode" # screen: Profile
 }
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
